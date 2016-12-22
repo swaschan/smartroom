@@ -1,0 +1,11 @@
+gpio 2 -> in1
+gpio 3 -> in4
+gpio 4 -> in5
+gpio 14 -> in8
+gpio15 -> in6
+gpio 18 -> in7
+gpio 17 -> in3
+gpio 27 -> in2
+
+
+
